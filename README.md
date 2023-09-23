@@ -1,7 +1,8 @@
 # mouse-event
 
 # How can I make it work?
-#Steps
+
+```Steps```
 - Open console
 - pip install tkinter
 - python app.py
