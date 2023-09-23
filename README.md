@@ -1,9 +1,10 @@
 # mouse-event
 
 # How can I make it work?
-1 - Open console
-2 - pip install tkinter
-3 - python app.py
+#Steps
+- Open console
+- pip install tkinter
+- python app.py
 
 # Photo
 
